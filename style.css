@@ -952,7 +952,7 @@ noscript {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding-top: 200px
+    padding-top: 80px
 }
 
 .about-section,
@@ -1097,7 +1097,7 @@ noscript {
     justify-content: center;
     flex-wrap: wrap;
     gap: 50px;
-    margin-top: 50px
+    margin-top: 150px
 }
 
 .tech-stack-box,
@@ -1150,7 +1150,7 @@ footer {
 }
 
 .projects-section-container {
-    padding: 150px 0;
+    padding: 100px 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1381,12 +1381,12 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100px
+    height: 130px
 }
 
 .getintouch-heading,
 .logos {
-    height: 80px;
+    height: 170px;
     width: 100%;
     display: flex
 }
